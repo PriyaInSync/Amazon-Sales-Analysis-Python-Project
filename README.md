@@ -1,1 +1,2 @@
 # Amazon-Sales-Analysis-Python-Project
+Led a Python-based project to optimize sales management and develop actionable strategies for driving profitability. Focused on high-revenue and high-profit products through the analysis and interpretation of Amazon sales data. Leveraged versatile Python libraries such as NumPy, pandas, seaborn, and matplotlib to perform comprehensive data analysis. This project aimed to enhance sales management, addressing the need for improved distribution methods to reduce costs and increase profits amidst rising competition.
